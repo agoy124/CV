@@ -1,0 +1,44 @@
+body {
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 0 20px;
+}
+
+header, main, footer {
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+header h1 {
+    font-size: 2em;
+    margin-bottom: 5px;
+}
+
+header p {
+    margin: 2px 0;
+    font-size: 1em;
+}
+
+.bio {
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+h2 {
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+footer p {
+    font-size: 0.9em;
+    color: #333;
+}
